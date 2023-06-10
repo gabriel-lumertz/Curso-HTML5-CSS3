@@ -1,5 +1,5 @@
 # Links Úteis
 
-## github.com/gustavoguanabara
+## [Repositório do curso](github.com/gustavoguanabara)
 
-## gustavoguanabara.github.io
+## [Página do curso](gustavoguanabara.github.io)
