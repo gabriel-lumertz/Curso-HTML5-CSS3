@@ -1,0 +1,3 @@
+# Tamanho de fonte e suas medidas
+
+Você sabe usar a propriedade font-size nas suas configurações CSS? Sabe qual é a diferença entre usar medidas absolutas (cm, mm, in, pt, px, pc) e relativas (em, ex, rem, vh, vw, %) para a propriedade de tamanho de fonte? Sabe qual é a recomendação do consórcio W3C para definir tamanhos de fonte? Pois acompanhe este vídeo até o final para responder a estas e muitas outras perguntas.
