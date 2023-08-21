@@ -1,0 +1,3 @@
+# Organizando o conteúdo do site
+
+Você sabe como organizar o conteúdo HTML5 usando as tags para envelopar as partes específicas de parágrafos, títulos, imagens e vídeos? Sabe como usar o recurso de wrap content do Visual Studio Code? Sabe como estruturar o conteúdo do seu site para ele ser apresentado corretamente? Pois acompanhe este vídeo até o final para responder a estas e muitas outras perguntas.
