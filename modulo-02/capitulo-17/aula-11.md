@@ -1,3 +1,3 @@
-# Rodapé, conteúdo periférico e links
+# Tornando um vídeo responsivo
 
-Você sabe personalizar uma lista para que ela fique com duas colunas e com marcadores personalizados? Sabe para que serve um conteúdo periférico em HTML5? Sabe como personalizar links externos para terem uma marcação única? Pois acompanhe este vídeo até o final para responder a estas e muitas outras perguntas.
+Você sabe alinhar um vídeo no meio da tela, colocando ele dentro de uma div? Sabe como fazer para o tamanho do vídeo se adaptar a diversos tamanhos de tela? Pois acompanhe este vídeo até o final para responder a estas e muitas outras perguntas.
