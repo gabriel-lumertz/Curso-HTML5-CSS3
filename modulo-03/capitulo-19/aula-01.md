@@ -1,0 +1,1 @@
+# Download das imagens do capítulo
