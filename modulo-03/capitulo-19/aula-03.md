@@ -1,0 +1,1 @@
+# Imagens que se repetem no fundo do site
