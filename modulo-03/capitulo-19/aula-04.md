@@ -1,0 +1,1 @@
+# Configurando a posição da imagem no fundo do site
