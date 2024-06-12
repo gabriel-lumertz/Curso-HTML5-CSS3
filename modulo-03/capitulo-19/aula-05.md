@@ -1,0 +1,1 @@
+# Mudando o tamanho da imagem de fundo do site
