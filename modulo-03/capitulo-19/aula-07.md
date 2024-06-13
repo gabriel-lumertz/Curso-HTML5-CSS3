@@ -1,0 +1,1 @@
+# Centralização vertical de caixas
