@@ -1,0 +1,1 @@
+# Imagens com efeito Parallax simples
