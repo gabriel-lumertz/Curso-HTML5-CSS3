@@ -24,13 +24,21 @@
             border-collapse: collapse;
         }
 
+        caption {
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 12px;
+            background-color: darkgray;
+            color: whitesmoke;
+        }
+
         td, th {
             border: 1px solid black;
             padding: 8px;
         }
 
         thead, tfoot {
-            background-color: gray;
+            background-color: rgb(37, 37, 37);
             color: white;
         }
 
@@ -63,11 +71,13 @@
 
     <table>
 
+        <caption>População das unidades federativas</caption>
+
         <thead>
             <tr>
-                <th>Ranking</th>
-                <th>Estado</th>
-                <th>População</th>
+                <th scope="col">Ranking</th>
+                <th scope="col">Estado</th>
+                <th scope="col" style="width: 50px;">População</th>
             </tr>
         </thead>
 
@@ -212,7 +222,7 @@
         <tfoot>
             <tr>
                 <td></td>
-                <th>Total de Habitantes</th>
+                <th scope="row">Total de Habitantes</th>
                 <td class="num"><strong>210.147.125</strong></td>
             </tr>
         </tfoot>
